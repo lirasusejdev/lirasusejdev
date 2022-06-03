@@ -9,7 +9,7 @@ Uma pessoa sempre disposta a Aprender! The back to the future 🚀
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [lis.amaral@grupoboticario.com.br](mailto:lis.amaral@grupoboticario.com.br)
 * 🧠  I'm learning HTML | CSS | JavaScript | React | Next.js
-* 🤝  I'm open to collaborating on Flora Design System
+* 🤝  I work at @grupoboticario as a Developer I. Helping to build a Grupo Boticário's Design System Flora.
 * ⚡  Nesher Shir
 
 <a href="https://www.github.com/lirasusejdev" target="_blank" rel="noreferrer"><img
