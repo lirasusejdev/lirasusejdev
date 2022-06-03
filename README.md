@@ -1,4 +1,4 @@
-Hi 👋 My name is Lis Regine Amaral
+Hi 👋 Lis Regine Amaral 🚀 🎶
 ==================================
 
 Developer I
