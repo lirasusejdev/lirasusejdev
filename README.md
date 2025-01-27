@@ -7,7 +7,7 @@ Developer I
 Uma pessoa sempre disposta a Aprender! The back to the future 🚀
 
 * 🌍  I'm based in Brasil
-*  🧠  I'm learning PYTHON | SQL | Data Aalysys | GCP | AWS -  cloud computing |  Tableau e Power BI
+*  🧠  I'm learning PYTHON | SQL | Data Analyst | GCP | AWS -  cloud computing |  Tableau e Power BI
 * 🧠  I'm learning HTML | CSS | JavaScript | React | Next.js
 * ⚡  Nesher Shir
 
