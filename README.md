@@ -1,6 +1,9 @@
 Hi 👋  🚀 🎶
 ==================================
-[![ONE | Tech Foundation – Back-End](https://img.shields.io/badge/ONE%20|%20Tech%20Foundation-Back--End-blue?style=for-the-badge&logo=oracle)](https://www.oracle.com/br/education/oracle-next-education/)
+[![ONE | Tech Foundation – Back-End](https://img.shields.io/badge/ONE%20|%20Tech%20Foundation-Back--End-orange?style=for-the-badge&logo=oracle)](https://www.oracle.com/br/education/oracle-next-education/)
+
+[![Udemy - Ruby on Rails Course](https://img.shields.io/badge/Udemy-Ruby_on_Rails-red?style=for-the-badge&logo=udemy)](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/)
+
 
 ==================================
 
@@ -24,6 +27,8 @@ Uma pessoa sempre disposta a Aprender! The back to the future 🚀
 🎉 I'm currently enrolled in the **Tech Foundation Specialization Phase** of the:
 
 [![ONE | Tech Foundation – Back-End](https://img.shields.io/badge/ONE%20|%20Tech%20Foundation-Back--End-blue?style=for-the-badge&logo=oracle)](https://www.oracle.com/br/education/oracle-next-education/)
+
+
 
 > **Oracle Next Education – ONE | Group 8**
 
