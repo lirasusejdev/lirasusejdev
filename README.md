@@ -1,4 +1,7 @@
-Hi 👋  🚀 🎶
+
+![Capa do perfil](https://www.oracle.com/a/ocom/img/rh03-one-br-logo.png)
+
+Hi 👋  🚀 !🎶
 ==================================
 [![ONE | Tech Foundation – Back-End](https://img.shields.io/badge/ONE%20|%20Tech%20Foundation-Back--End-orange?style=for-the-badge&logo=oracle)](https://www.oracle.com/br/education/oracle-next-education/)
 
