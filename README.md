@@ -2,7 +2,6 @@
 ![Capa do perfil](https://www.oracle.com/a/ocom/img/rh03-one-br-logo.png)
 <img width="263" height="199" alt="Captura de tela 2025-07-24 205129" src="https://github.com/user-attachments/assets/d18077b5-1c27-47b8-bac0-ba99c067f660" />
 
-
 Hi 👋  🚀 !🎶
 ==================================
 [![ONE | Tech Foundation – Back-End](https://img.shields.io/badge/ONE%20|%20Tech%20Foundation-Back--End-orange?style=for-the-badge&logo=oracle)](https://www.oracle.com/br/education/oracle-next-education/)
