@@ -1,5 +1,6 @@
 
-![Capa do perfil](https://www.oracle.com/a/ocom/img/rh03-one-br-logo.png)
+![Capa do perfil](https://www.oracle.com/a/ocom/img/rh03-one-br-logo.png) <img width="128" height="179" alt="Captura de tela 2025-07-24 203602" src="https://github.com/user-attachments/assets/1fadaca0-34b9-4110-895d-9d236b1c7380" />
+
 
 Hi 👋  🚀 !🎶
 ==================================
